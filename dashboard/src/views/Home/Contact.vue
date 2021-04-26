@@ -1,0 +1,18 @@
+<template>
+  <div class="flex justify-center w-full">
+    <div class="flex flex-col items-center w-4/5 max-w-6xl my-16">
+      <h1 class="text-4xl font-black text-center text-gray-800">
+        Alguma dúvida
+      </h1>
+      <p class="text-lg text-center text-gray-800 font-regular">
+        Quer saber melhor como funciona e quais são os preços?
+      </p>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {}
+</script>
+
+<style></style>
